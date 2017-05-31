@@ -1,0 +1,21 @@
+{
+  "name": "knode-shell",
+  "version": "1.0.0",
+  "description": "shell wrapper module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prokvk/knode-shell.git"
+  },
+  "author": "prokvk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokvk/knode-shell/issues"
+  },
+  "homepage": "https://github.com/prokvk/knode-shell#readme"
+}
